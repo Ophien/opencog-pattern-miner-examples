@@ -1,0 +1,1 @@
+# opencog-pattern-miner-examples
